@@ -1,2 +1,1 @@
 opkg install --force-reinstall --force-overwrite --force-downgrade  http://pifo-emu.github.io/Canales/picons.ipk
- 
