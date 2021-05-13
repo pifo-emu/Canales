@@ -29,7 +29,7 @@ done
 
 
 echo "`date`" > trabaje.txt
-
+ 
 echo "Ya hemos terminado"
 
 
